@@ -1,4 +1,4 @@
-👋 Hi, I’m @Shamachrist7
+👋 Hi, I’m German Shâma Wache (@Shamachrist7)
 
 👀 I’m deeply fascinated by the limitless potential of Artificial Intelligence. My interests span across several domains within AI, including deep learning, natural language processing (NLP), reinforcement learning, and computer vision. The ability of machines to learn from data, understand human language, make decisions, and recognize patterns in images is what excites me the most about the field.
 
